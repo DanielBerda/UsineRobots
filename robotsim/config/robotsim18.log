@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-31T20:49:52.884250Z</date>
+  <millis>1717188592884</millis>
+  <nanos>250000</nanos>
+  <sequence>0</sequence>
+  <logger>fr.tp.inf112.robotsim.test.SimulatorApplication</logger>
+  <level>INFO</level>
+  <class>fr.tp.inf112.robotsim.test.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Starting the robot simulator...</message>
+</record>
+<record>
+  <date>2024-05-31T20:49:53.030001Z</date>
+  <millis>1717188593030</millis>
+  <nanos>1000</nanos>
+  <sequence>1</sequence>
+  <logger>fr.tp.inf112.robotsim.test.SimulatorApplication</logger>
+  <level>CONFIG</level>
+  <class>fr.tp.inf112.robotsim.test.SimulatorApplication</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>With parameters [].</message>
+</record>
+</log>
